@@ -94,7 +94,7 @@ shopify-custom-filter/
 
 ## 📸 Optional (Add Screenshots or Video Demo Here)
 
-- Screenshots of filters applied
+- <video controls src="20250518-1731-52.5143961.mp4" title="Title"></video>
 - Mobile filter drawer view
 - Filtering animation/loading
 
